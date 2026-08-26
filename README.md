@@ -36,7 +36,7 @@ Customers average ~2.3 pizzas per order, showing strong family/group demand.
 ## 🍕 Page 2: Pizza Performance
 This page uses bookmarks to highlight Top 10 and Bottom 5 pizzas by revenue.
 <br>
-Top 10 Pizzas by Revenue:
+## Top 10 Pizzas by Revenue:
 <br>
 Thai Chicken, Barbecue Chicken, and California Chicken lead sales.
 <br>
@@ -44,7 +44,7 @@ Chicken-based pizzas dominate, reflecting strong customer preference.
 <br>
 Classic Deluxe, Spicy Italian, and Hawaiian also perform well.
 <br>
-Bottom 5 Pizzas by Revenue:
+## Bottom 5 Pizzas by Revenue:
 <br>
 Spinach Pesto, Mediterranean, Spinach Supreme, Green Garden, and Brie Carre underperform.
 <br>
@@ -60,7 +60,8 @@ Veggie pizzas lag behind, suggesting a need for repositioning.
 <br>
 Actionable Insight:  
 Focus promotions on chicken and classic pizzas, while rethinking or repositioning low-performing veggie pizzas. Optimize around large/medium sizes, since XL/XXL contribute little.
-
+![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/c16e4bd8efe5b0095ca41ef6c35b8cd3c08dea82/Pizza%20Sales%20-%20Pizza%20analysis%201.png)
+<br>
 ## 📈 Page 3: Order Analysis
 Orders by Day: Highest on Fridays, lowest on Sundays.
 <br>
