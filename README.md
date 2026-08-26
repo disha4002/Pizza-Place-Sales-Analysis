@@ -1,6 +1,13 @@
 ## 🍕 Pizza Sales Dashboard
-## 📖 Overview <br>
-This project showcases a Power BI dashboard analyzing sales performance of a pizza business. The dashboard is interactive, with slicers for filtering by date, pizza size, category, and name, and provides actionable insights into customer behavior, product performance, and revenue trends.
+## 📖 Project Overview <br>
+## Project Background
+
+The Pizza Sales Database project focuses on analyzing transactional pizza sales data to understand sales performance, customer ordering patterns, product demand, and overall business performance. The dataset contains information about orders, pizzas, pizza categories, sizes, quantities, prices, and order dates and times.
+
+The project uses **SQL** to clean, explore, and analyze the data and answer key business questions such as which pizza categories and sizes perform best, which products generate the most revenue, how sales vary over time, and which periods experience the highest order volume.
+
+The analysis is designed to demonstrate how SQL can be used to transform raw transactional data into meaningful business insights that can support decisions related to product performance, pricing, inventory planning, and sales strategy.
+
 <br>
 The dashboard is structured into three main pages:
 <br>
@@ -11,56 +18,25 @@ Pizza Performance (with bookmarks for Top 10 and Bottom 5)
 Order Analysis
 <br>
 ## 📊 Page 1: Revenue Overview
-Key Metrics:
-
-₹8,17,860 total revenue
+The Pizza Place Sales Analysis dashboard provides a comprehensive view of business performance, tracking revenue, orders, and customer behavior. Over the period, the business generated ₹8.18 lakh from 21.35K orders, selling 49.57K pizzas across 32 varieties. Revenue peaked in July (~₹72K) but dipped in September–October (~₹64K), highlighting seasonal demand shifts. With an average of 2.32 pizzas per order, the analysis reveals strong multi‑pizza purchasing trends, offering actionable insights for menu optimization, promotions, and capacity planning.
 <br>
-21,350 orders
-<br>
-49,574 pizzas sold
-<br>
-₹16.44 average pizza price
-<br>
-Monthly Trends: Revenue fluctuates between ₹64K–₹72K per month.
-<br>
-Insights:
-<br>
-July recorded the highest revenue (~₹72K).
-<br>
-September–October dipped to ~₹64K.
-<br>
-Customers average ~2.3 pizzas per order, showing strong family/group demand.
-<br>
+Below is the overview page of Power BI dashboard
 
 ![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/0a971f140ce0db1ab64cbe9e702c7be4172c567b/Pizza%20Sales%20-%20Overview.png)
 ## 🍕 Page 2: Pizza Performance
-This page uses bookmarks to highlight Top 10 and Bottom 5 pizzas by revenue.
-<br>
-Top 10 Pizzas by Revenue:
-<br>
-Thai Chicken, Barbecue Chicken, and California Chicken lead sales.
-<br>
-Chicken-based pizzas dominate, reflecting strong customer preference.
-<br>
-Classic Deluxe, Spicy Italian, and Hawaiian also perform well.
-<br>
-Bottom 5 Pizzas by Revenue:
-<br>
-Spinach Pesto, Mediterranean, Spinach Supreme, Green Garden, and Brie Carre underperform.
-<br>
-These veggie-heavy options show limited demand.
-<br>
-Size & Category Trends:
-<br>
-Large (31.5%) and XL (38.2%) pizzas drive most sales.
-<br>
-Classic and Supreme pizzas generate the highest revenue.
-<br>
-Veggie pizzas lag behind, suggesting a need for repositioning.
-<br>
-Actionable Insight:  
-Focus promotions on chicken and classic pizzas, while rethinking or repositioning low-performing veggie pizzas. Optimize around large/medium sizes, since XL/XXL contribute little.
+Top 10 pizzas by revenue are led by Thai Chicken, Barbecue Chicken, and California Chicken.
+Chicken-based pizzas dominate overall, reflecting strong customer preference.
+Classic Deluxe, Spicy Italian, and Hawaiian also perform well among the top sellers.
 
+Bottom 5 pizzas include Spinach Pesto, Mediterranean, Spinach Supreme, Green Garden, and Brie Carre.
+These veggie-heavy options show limited demand and weaker positioning.
+
+Large (31.5%) and XL (38.2%) pizzas drive most sales, while smaller sizes contribute less.
+Classic and Supreme pizzas generate the highest revenue, while Veggie pizzas lag behind.
+
+Actionable Insight: Focus promotions on chicken and classic pizzas.
+Reposition or revamp low-performing veggie options.
+Optimize around large and medium sizes, since XL/XXL add minimal value.
 
 ![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/c16e4bd8efe5b0095ca41ef6c35b8cd3c08dea82/Pizza%20Sales%20-%20Pizza%20analysis%201.png)
 <br>
@@ -76,3 +52,24 @@ Category Pricing: Supreme pizzas span both premium and budget ranges; Chicken pi
 Insights: Align promotions with Thursday–Friday evenings and explore ways to strengthen veggie offerings.
 
 ![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/9ee261662c217d36909e2289623bfa0084413aef/Pizza%20orders%20analysis.png)
+
+## Sales Trends
+📊 Sales Trends
+Top Performers: Chicken and Classic pizzas dominate revenue, with Thai Chicken, Barbecue Chicken, and Classic Deluxe leading the top 10 list.
+<br>
+Underperformers: Veggie pizzas consistently lag, with Spinach Pesto, Mediterranean, and Brie Carre among the bottom 5.
+<br>
+Size Preference: Large (38%) and Medium (32%) pizzas drive most sales, while Small and XL contribute very little.
+<br>
+Category Insights: Supreme pizzas span both premium and budget ranges, while Chicken pizzas hold strong premium appeal.
+
+## Recommendations
+Promote Bestsellers: Focus marketing campaigns around Chicken and Classic pizzas to maximize revenue.
+<br>
+Revamp Veggie Range: Rework recipes, pricing, or bundle deals to improve performance of underperforming veggie pizzas.
+<br>
+Size Strategy: Encourage upselling from Medium to Large sizes, since they already dominate sales.
+<br>
+Peak-Time Promotions: Align offers with Thursday–Friday evenings and dinner hours to capture high demand.
+<br>
+Menu Optimization: Consider trimming or repositioning consistently weak pizzas to reduce menu clutter and improve profitability.
