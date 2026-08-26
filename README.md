@@ -64,6 +64,8 @@ Focus promotions on chicken and classic pizzas, while rethinking or repositionin
 
 ![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/c16e4bd8efe5b0095ca41ef6c35b8cd3c08dea82/Pizza%20Sales%20-%20Pizza%20analysis%201.png)
 <br>
+![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/7e3184fb01aea611493b132ba21a8ba8db4b2977/Pizza%20Sales-%20Pizza%20analysis%202.png)
+<br>
 ## 📈 Page 3: Order Analysis
 Orders by Day: Highest on Fridays, lowest on Sundays.
 <br>
