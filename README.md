@@ -31,6 +31,8 @@ September–October dipped to ~₹64K.
 <br>
 Customers average ~2.3 pizzas per order, showing strong family/group demand.
 <br>
+
+![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/0a971f140ce0db1ab64cbe9e702c7be4172c567b/Pizza%20Sales%20-%20Overview.png)
 ## 🍕 Page 2: Pizza Performance
 This page uses bookmarks to highlight Top 10 and Bottom 5 pizzas by revenue.
 <br>
