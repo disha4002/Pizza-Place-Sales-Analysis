@@ -74,3 +74,5 @@ Orders by Time: Peak demand during evening hours (5–8 PM), confirming dinner-t
 Category Pricing: Supreme pizzas span both premium and budget ranges; Chicken pizzas hold strong premium appeal; Veggie pizzas trail behind.
 
 Insights: Align promotions with Thursday–Friday evenings and explore ways to strengthen veggie offerings.
+
+![image alt](https://github.com/disha4002/Pizza-Place-Sales-Analysis/blob/9ee261662c217d36909e2289623bfa0084413aef/Pizza%20orders%20analysis.png)
