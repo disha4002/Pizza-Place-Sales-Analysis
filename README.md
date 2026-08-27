@@ -1,4 +1,4 @@
-🍕 Pizza Sales Dashboard
+## 🍕 Pizza Sales Dashboard
 
 ## Project Background
 
