@@ -1,5 +1,5 @@
-## 🍕 Pizza Sales Dashboard
-## 📖 Project Overview <br>
+🍕 Pizza Sales Dashboard
+
 ## Project Background
 
 The Pizza Sales Database project focuses on analyzing transactional pizza sales data to understand sales performance, customer ordering patterns, product demand, and overall business performance. The dataset contains information about orders, pizzas, pizza categories, sizes, quantities, prices, and order dates and times.
